@@ -18,7 +18,9 @@ public class ForGitProject {
         int a= 6;
         int b = 5;
         int sum =a+b;
+        int mult = a*b;
                 System.out.println(sum);
+        System.out.println(mult);
         // TODO code application logic here
     }
     
